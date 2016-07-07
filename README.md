@@ -1,4 +1,4 @@
-# AndroidPublisher
+# Android Publisher
 Google Play Developer Console Publisher API consumer
 
 ### License
