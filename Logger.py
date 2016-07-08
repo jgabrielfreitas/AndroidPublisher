@@ -6,8 +6,9 @@ def log_title_upper_case(to_log):
 
     text_size = len(to_log)
 
-    title = "{0}   {1}   {2}".format(build_str_hashtag(text_size / 2 + 2), to_log.upper(),
-                                 build_str_hashtag(text_size / 2 + 2))
+    title = "{0}   {1}   {2}".format(build_str_hashtag(text_size / 2 + 2),
+                                     to_log.upper(),
+                                     build_str_hashtag(text_size / 2 + 2))
 
     print("\n")
     print(build_str_hashtag(len(title)))
